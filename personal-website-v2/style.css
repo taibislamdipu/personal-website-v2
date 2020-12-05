@@ -97,6 +97,15 @@ h2{
     margin-top: 50px;
 }
 
+.contact-me:hover{
+    opacity: 0.9;
+}
+
+.contact-me h3 a{
+    text-decoration: none;
+    color: #000;
+}
+
 
 
 

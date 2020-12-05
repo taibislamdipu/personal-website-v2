@@ -163,6 +163,10 @@
 	margin-bottom: 5px;
 }
 
+.devloped-by p a{
+	color: lightseagreen;
+}
+
 /* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
