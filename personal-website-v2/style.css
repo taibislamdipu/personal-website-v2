@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+
+}
+
+.custom-pink-color{
+    color: #ED4B72;
+}
+
+.linked-button a{
+    text-decoration: none;
+    background-color: #ED4B72;
+    color: #fff;
+    padding: 10px 50px;
+    border-radius: 7px;
+}
+
+.linked-button{
+    margin-top: 40px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 7%;
+}
+.half-width img{
+    width: 500px;
+}
+
+.top-section-about{
+    margin-left: 50px;
+}
+
+.top-section{
+    background-image: url('images/header-bg.png') ;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+.biography-section{
+    background-image: url('images/biography-bg.png');
+    height: 800px;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+.latest-work-section{
+    height: 600px;
+    background-image: url('images/latest-work-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+.latest-work-section h2{
+    text-align: center;
+}
+
+.latest-work img{
+    float: left;
+    padding: 10px;
+    width: 30%;
+    /* display: table; */
+    margin: 0 15px;
+    
+} 
+
+.testimonial-section{
+    background-image: url('images/footer-bg.png');
+    height: 600px;
+    text-align: center;
+}
+
+.contact-me{
+    background-color: #ED4B72;
+    width: 30%;
+    border-radius: 7px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+
+
